@@ -186,6 +186,7 @@ Ever at a loss for words the way to make your images circulate,
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <style>
 
 	.h1{
@@ -208,6 +209,7 @@ Ever at a loss for words the way to make your images circulate,
 		font-size: 30px;
 		border: 3px solid red;
 		background:yellow;
+
 	}
 	.a:hover{
 
@@ -239,7 +241,7 @@ Ever at a loss for words the way to make your images circulate,
 <body>
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button class="a" onclick="onClick()">Download Apk</button></h1>
+	<h1 class="any" id="innerbutton" label="Download"><button class="a" onclick="onClick()">Download File</button></h1>
 	
 	<a id='aaa' href="https://freshersoft.com/" onclick="click()"></a>	
 </div>
@@ -258,7 +260,7 @@ if (counter>=0){
 }
 
 if (counter === 0) {
-	document.write("<body style='background:black;'><h1 align='center' style='font-family:sans-serif;margin-top:200px;left:50%;'><button class='a' style='hover:background(red);background:#00ff00;width:300px;height:100px;border-radius:29px 30px 29px 30px;border-box:none;'><a id='aaa' href='https:\/\/freshersoft.com\/' style='font-size:20px;font-family:sans-serif;color:red;'>Create Download Link</button></a></h1></body>");
+	document.write("<html><head><meta charset='utf-8'><title>Freshersoft Download Page</title><meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'></head><body bgcolor='#fff'><div style='position:relative;background-image:white;border-image-repeat: no-repeat;width:400px;height:300px;margin-left:;margin-top:50px;'><img style='width:500px;height:auto;' src='/images/logo.gif'><div><h1 style='font-family:sans-serif;font-size:50px;color:red;'>Download Ready.....</h1><h1><p>Click on Download Now button With a Single Click get Your File !</p></h1></div><h1 align='center' style='font-family:sans-serif;margin-top:200px;margin-left:;'><button class='a' style='hover:background(red);background:#00ff00;width:300px;height:100px;border-radius:29px 30px 29px 30px;border-box:none;margin-top:20%;'><a id='aaa' href='https:\/\/freshersoft.com\/' style='font-size:20px;font-family:sans-serif;color:red;'>Download Now</button></a></h1></div></body></html>");
 }
 },500);
 };
@@ -277,7 +279,7 @@ if (counter>=0){
 }
 
 if (counter === 0) {
-document.write("<h1 align='center'><button class='a'><a id='aaa' href='https:\/\/freshersoft.com\/'>Create Download Link</button></a></h1>");
+document.write("<h1 align='center'><button class='a'><a id='aaa' href='https:\/\/freshersoft.com\/'>Download Now</button></a></h1>");
  
 }
 },500);
@@ -399,6 +401,9 @@ Now you can animate your pix on Android!</p>
           </li>
           <li class="mb-3"><a class="text-dark"
               href="/categories/videoplayers">Videoplayers</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/vpnmods">Vpnmods</a>
           </li>
         </ul>
       </div>
