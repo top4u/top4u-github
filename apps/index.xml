@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on FRESHER SOFT</title>
+    <link>https://freshersoft.com/apps/</link>
+    <description>Recent content in Apps on FRESHER SOFT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 17:08:46 -0700</lastBuildDate>
+    
+	<atom:link href="https://freshersoft.com/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Termux Latest 2020 0.94 Apk</title>
+      <link>https://freshersoft.com/apps/termux-latest-2020-0.94-apk/</link>
+      <pubDate>Mon, 01 Jun 2020 16:49:14 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/apps/termux-latest-2020-0.94-apk/</guid>
+      <description>Termux Latest 2020 0.94 Apk Termux combines powerful terminal emulation with an in depth Linux package series.</description>
+    </item>
+    
+  </channel>
+</rss>

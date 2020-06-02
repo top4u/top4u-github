@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>graphics on FRESHER SOFT</title>
+    <title>Graphics on FRESHER SOFT</title>
     <link>https://freshersoft.com/categories/graphics/</link>
-    <description>Recent content in graphics on FRESHER SOFT</description>
+    <description>Recent content in Graphics on FRESHER SOFT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2020 18:26:31 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 17:08:46 -0700</lastBuildDate>
     
 	<atom:link href="https://freshersoft.com/categories/graphics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apps</title>
+      <link>https://freshersoft.com/apps/</link>
+      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/apps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pie Launcher 2020 Mod Apk 4</title>
