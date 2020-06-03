@@ -6,7 +6,7 @@
     <description>Recent content in Categories on FRESHER SOFT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 17:08:46 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 20:19:01 -0700</lastBuildDate>
     
 	<atom:link href="https://freshersoft.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>BooksReference</title>
       <link>https://freshersoft.com/categories/booksreference/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/booksreference/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Comunication</title>
       <link>https://freshersoft.com/categories/comunication/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/comunication/</guid>
       <description></description>
@@ -32,9 +32,45 @@
     <item>
       <title>Education</title>
       <link>https://freshersoft.com/categories/education/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimedia</title>
+      <link>https://freshersoft.com/categories/multimedia/</link>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/multimedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://freshersoft.com/categories/productivity/</link>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://freshersoft.com/categories/tools/</link>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VpnMods</title>
+      <link>https://freshersoft.com/categories/vpnmods/</link>
+      <pubDate>Tue, 02 Jun 2020 20:19:01 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/vpnmods/</guid>
       <description></description>
     </item>
     
@@ -53,15 +89,6 @@
       <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/graphics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimedia</title>
-      <link>https://freshersoft.com/categories/multimedia/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
-      
-      <guid>https://freshersoft.com/categories/multimedia/</guid>
       <description></description>
     </item>
     
@@ -93,38 +120,11 @@
     </item>
     
     <item>
-      <title>Productivity</title>
-      <link>https://freshersoft.com/categories/productivity/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
-      
-      <guid>https://freshersoft.com/categories/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>https://freshersoft.com/categories/tools/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
-      
-      <guid>https://freshersoft.com/categories/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>VideoPlayers</title>
       <link>https://freshersoft.com/categories/videoplayers/</link>
       <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/videoplayers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VpnMods</title>
-      <link>https://freshersoft.com/categories/vpnmods/</link>
-      <pubDate>Mon, 01 Jun 2020 17:08:46 -0700</pubDate>
-      
-      <guid>https://freshersoft.com/categories/vpnmods/</guid>
       <description></description>
     </item>
     
