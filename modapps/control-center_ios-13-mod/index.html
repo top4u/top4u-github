@@ -156,7 +156,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <style>
 
 	.h1{
@@ -179,7 +178,6 @@
 		font-size: 30px;
 		border: 3px solid red;
 		background:yellow;
-
 	}
 	.a:hover{
 
@@ -211,13 +209,13 @@
 <body>
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" id="innerbutton" label="Download"><button class="a" onclick="onClick()">Download File</button></h1>
+	<h1 class="any" label="Download"><button class="a" onclick="onClick()">Download File</button></h1>
 	
 	<a id='aaa' href="#ZgotmplZ" onclick="click()"></a>	
 </div>
 <script>
 
-function onClick,onclick1() {
+function onClick() {
 
 var counter = 11;
 
@@ -230,30 +228,12 @@ if (counter>=0){
 }
 
 if (counter === 0) {
-	document.write(
-		<head>
-		<meta charset='utf-8'>
-		<title>Freshersoft Download Page</title>
-		<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
-		</head>
-		<body>
-		<div style='min-height:500px;margin-left:0.5%;margin-right:0.5%;'><img src='/images/banner6.jpg'>
-		<img style='margin-left10%;margin-right:10%;min-height:200px;' src='/images/logo.gif'>
-		<h1 style='font-family:sans-serif;font-size:50px;color:red;'>Download Ready.....</h1>
-		<h1>Click on Download</h1>
-		<h1 align='center' style='font-family:sans-serif;margin-top:20%;margin-left:3%;margin-right:3%;'>
-		<button class='a' style='hover:background(red);background:#00ff00;width:300px;min-height:100px;border-radius:29px 30px 29px 30px;border-box:none;margin-top:20%;'>
-		<a id='aaa' onclick='onclick1' href='\nhttps:\/\/bitbucket.org\/freshersoft\/apps-soft\/raw\/a90fa312f4105f99ef5b13c605c86ff73b8bb44f\/ios-control-center-freshersoft.com.apk\t' style='font-size:20px;font-family:sans-serif;color:red;'>Download Now
-		</button>
-		</a>
-		</h1>
-		</div>
-		</div>
-		</body>
-		;
+	document.write("<head><title>Freshersoft Download Page</title></head><body><header class='header'><center><img class='img' src='/images/logo.gif' width='500px' height='100px'></center></header><div class='banner'><center><img class='banner' src='/images/banner6.jpg'></center><center><h1 class='h1'>Download Ready....</h1><center><strong>please Press Download Now Button </strong></center><center><button class='btn'><a class='anchor' id='aaa' href='\nhttps:\/\/bitbucket.org\/freshersoft\/apps-soft\/raw\/a90fa312f4105f99ef5b13c605c86ff73b8bb44f\/ios-control-center-freshersoft.com.apk\t'> <h4 class='anchor'>Download Now</h4></a></button></center></div></body><style> .body{background-image:url(images/banner.jpg)}.anchor{ color:magenta;font-family:sans-serif; background:white;font-size:20px; text-align:center;line-height:50px; text-transform;bold;} .anchor:hover{ background:yellow;color:red;} .banner{min-height:800px;margin-left:2%;margin-right:2%} .btn{ background:lime;min-height:100px;margin-right:3%;margin-top:200px;margin-bottom:100px;margin-left:3%;width:300px;border-radius:30px 29px 29px 30px;border-box:none} .btn:hover{background:yellow; margin-top:300px; margin-bottom:100px;}.header{min-height:100px;margin-right:5%;margin-left:5%;margin-top:5%;} .img{margin-right:1%;margin-left:1%;min-height:100px;}</style>");
 }
 },500);
 };
+
+
 
 
 
