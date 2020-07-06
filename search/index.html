@@ -4,16 +4,16 @@
     <body >
       <div class="body-div">
 <!-- preloader start -->
-<div class="preloader" >
-  
-
-  <img class="bg-img-preloader" src="https://freshersoft.com/images/bg-img6.jpg " alt="please wait">
-		
-
-  
+<div class="preloader">
+  <div class="loader">
+    <span class="dot"></span>
+    <div class="dots">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
 </div>
-
-
 <!-- preloader end -->
 <!-- navigation --><head>
 
@@ -45,10 +45,10 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Search Result"/>
-<meta name="twitter:description" content="this is meta description"/>
+<meta name="twitter:description" content="Freshersoft.com is best place for Download the latest Premium apps mod apk games with unlimited money ,coins,gold,gems,diamonds,and unlocked stages.FresherSoft focus on Providing 100% Working mods for games and apps  "/>
 
 <meta property="og:title" content="Search Result" />
-<meta property="og:description" content="this is meta description" />
+<meta property="og:description" content="Freshersoft.com is best place for Download the latest Premium apps mod apk games with unlimited money ,coins,gold,gems,diamonds,and unlocked stages.FresherSoft focus on Providing 100% Working mods for games and apps  " />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://freshersoft.com/search/" />
 <meta property="og:updated_time" content="2019-10-29T13:49:23+06:00" /><meta property="og:site_name" content="FRESHER SOFT" />
@@ -58,7 +58,7 @@
 <link rel="canonical" href="https://freshersoft.com/search/" />
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="this is meta description">
+  <meta name="description" content="Freshersoft.com is best place for Download the latest Premium apps mod apk games with unlimited money ,coins,gold,gems,diamonds,and unlocked stages.FresherSoft focus on Providing 100% Working mods for games and apps  ">
   
   <meta name="generator" content="Hugo 0.71.0" />
 
@@ -169,28 +169,38 @@
 </header>
 <!-- /navigation -->
 
+
 <section class="section">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-10">
-        <div id="search-results"></div>
-        
-        <script id="search-result-template" type="text/x-js-template">
+    <div class="row">
+      <div class="col-lg-12">
+       
+      </div>
+    </div>
+  </div>
 
-          <div class="py-4 border-bottom" id="summary-${key}">
-            <h4><a class="a-search" href="${link}">${title}</a></h4>
-         
-            </div>
-            
-            <p>${snippet}</p>
-            ${ isset tags }<p>Tags: ${tags}</p>${ end }
-            ${ isset categories }<p>Categories: ${categories}</p>${ end }
-          </div>
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div id="search-results"></div>
+        <script id="search-result-template" type="text/x-js-template">
+          <ul class="search-result list-unstyled" id="summary-${key}">
+            <li class="border-bottom mb-4 pb-3">
+              <h4><a class="text-dark" href="${link}">${title}</a></h4>
+              <p>${snippet}</p>
+              ${ isset tags }<p>Tags: ${tags}</p>${ end }
+              ${ isset categories }<p>Categories: ${categories}</p>${ end }
+            </li>
+          </ul>
         </script>
       </div>
     </div>
   </div>
 </section>
+
 
 
     

@@ -6,10 +6,55 @@
     <description>Recent content in Categories on FRESHER SOFT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 05:23:45 +0500</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 08:42:31 +0500</lastBuildDate>
     
 	<atom:link href="https://freshersoft.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BooksReference</title>
+      <link>https://freshersoft.com/categories/booksreference/</link>
+      <pubDate>Mon, 06 Jul 2020 08:42:31 +0500</pubDate>
+      
+      <guid>https://freshersoft.com/categories/booksreference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://freshersoft.com/categories/education/</link>
+      <pubDate>Mon, 06 Jul 2020 08:42:31 +0500</pubDate>
+      
+      <guid>https://freshersoft.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://freshersoft.com/categories/productivity/</link>
+      <pubDate>Mon, 06 Jul 2020 08:42:31 +0500</pubDate>
+      
+      <guid>https://freshersoft.com/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://freshersoft.com/categories/internet/</link>
+      <pubDate>Mon, 06 Jul 2020 06:20:52 +0500</pubDate>
+      
+      <guid>https://freshersoft.com/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimedia</title>
+      <link>https://freshersoft.com/categories/multimedia/</link>
+      <pubDate>Mon, 06 Jul 2020 06:20:52 +0500</pubDate>
+      
+      <guid>https://freshersoft.com/categories/multimedia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vpn</title>
@@ -30,33 +75,6 @@
     </item>
     
     <item>
-      <title>BooksReference</title>
-      <link>https://freshersoft.com/categories/booksreference/</link>
-      <pubDate>Fri, 03 Jul 2020 08:45:47 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/booksreference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://freshersoft.com/categories/education/</link>
-      <pubDate>Fri, 03 Jul 2020 08:45:47 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>https://freshersoft.com/categories/productivity/</link>
-      <pubDate>Fri, 03 Jul 2020 04:26:24 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CodeEditor</title>
       <link>https://freshersoft.com/categories/codeeditor/</link>
       <pubDate>Fri, 03 Jul 2020 04:25:38 +0500</pubDate>
@@ -71,15 +89,6 @@
       <pubDate>Fri, 03 Jul 2020 04:24:15 +0500</pubDate>
       
       <guid>https://freshersoft.com/categories/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimedia</title>
-      <link>https://freshersoft.com/categories/multimedia/</link>
-      <pubDate>Fri, 03 Jul 2020 04:23:10 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/multimedia/</guid>
       <description></description>
     </item>
     
@@ -188,15 +197,6 @@
       <pubDate>Tue, 30 Jun 2020 06:03:07 +0500</pubDate>
       
       <guid>https://freshersoft.com/categories/code-editor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://freshersoft.com/categories/internet/</link>
-      <pubDate>Tue, 30 Jun 2020 06:03:07 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/internet/</guid>
       <description></description>
     </item>
     
