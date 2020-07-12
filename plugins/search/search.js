@@ -5,7 +5,7 @@ var fuseOptions = {
   threshold: 0.0,
   tokenize:true,
   location: 0,
-  distance: 100,
+  distance: 300,
   maxPatternLength: 32,
   minMatchCharLength: 1,
   keys: [
