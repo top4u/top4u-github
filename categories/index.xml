@@ -6,87 +6,24 @@
     <description>Recent content in Categories on FRESHER SOFT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 06:14:52 +0500</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 17:04:20 -0700</lastBuildDate>
     
 	<atom:link href="https://freshersoft.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>BooksReference</title>
-      <link>https://freshersoft.com/categories/booksreference/</link>
-      <pubDate>Wed, 08 Jul 2020 06:14:52 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/booksreference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://freshersoft.com/categories/education/</link>
-      <pubDate>Wed, 08 Jul 2020 06:14:52 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Productivity</title>
       <link>https://freshersoft.com/categories/productivity/</link>
-      <pubDate>Wed, 08 Jul 2020 06:11:52 +0500</pubDate>
+      <pubDate>Sun, 12 Jul 2020 17:04:20 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/productivity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Entertainment</title>
-      <link>https://freshersoft.com/categories/entertainment/</link>
-      <pubDate>Wed, 08 Jul 2020 06:09:33 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/entertainment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://freshersoft.com/categories/music/</link>
-      <pubDate>Wed, 08 Jul 2020 06:09:33 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MusicAudio</title>
-      <link>https://freshersoft.com/categories/musicaudio/</link>
-      <pubDate>Wed, 08 Jul 2020 06:09:33 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/musicaudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Browser</title>
-      <link>https://freshersoft.com/categories/browser/</link>
-      <pubDate>Wed, 08 Jul 2020 06:08:50 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/browser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://freshersoft.com/categories/internet/</link>
-      <pubDate>Wed, 08 Jul 2020 06:08:50 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vpn</title>
       <link>https://freshersoft.com/categories/vpn/</link>
-      <pubDate>Wed, 08 Jul 2020 06:08:50 +0500</pubDate>
+      <pubDate>Sun, 12 Jul 2020 17:03:55 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/vpn/</guid>
       <description></description>
@@ -95,9 +32,144 @@
     <item>
       <title>VpnMods</title>
       <link>https://freshersoft.com/categories/vpnmods/</link>
-      <pubDate>Wed, 08 Jul 2020 06:08:50 +0500</pubDate>
+      <pubDate>Sun, 12 Jul 2020 17:03:55 -0700</pubDate>
       
       <guid>https://freshersoft.com/categories/vpnmods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://freshersoft.com/categories/music/</link>
+      <pubDate>Sun, 12 Jul 2020 17:02:21 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MusicAudio</title>
+      <link>https://freshersoft.com/categories/musicaudio/</link>
+      <pubDate>Sun, 12 Jul 2020 17:02:21 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/musicaudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VideoPlayer&#34;</title>
+      <link>https://freshersoft.com/categories/videoplayer/</link>
+      <pubDate>Sun, 12 Jul 2020 17:02:21 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/videoplayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VideoPlayers</title>
+      <link>https://freshersoft.com/categories/videoplayers/</link>
+      <pubDate>Sun, 12 Jul 2020 17:02:21 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/videoplayers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphics</title>
+      <link>https://freshersoft.com/categories/graphics/</link>
+      <pubDate>Sun, 12 Jul 2020 17:01:38 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://freshersoft.com/categories/photography/</link>
+      <pubDate>Sun, 12 Jul 2020 17:01:38 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://freshersoft.com/categories/education/</link>
+      <pubDate>Sun, 12 Jul 2020 16:58:46 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://freshersoft.com/categories/internet/</link>
+      <pubDate>Sun, 12 Jul 2020 16:57:59 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Browser</title>
+      <link>https://freshersoft.com/categories/browser/</link>
+      <pubDate>Sun, 12 Jul 2020 16:57:28 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racing</title>
+      <link>https://freshersoft.com/categories/racing/</link>
+      <pubDate>Sun, 12 Jul 2020 16:54:13 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/racing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BooksReference</title>
+      <link>https://freshersoft.com/categories/booksreference/</link>
+      <pubDate>Sun, 12 Jul 2020 16:53:44 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/booksreference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comunication</title>
+      <link>https://freshersoft.com/categories/comunication/</link>
+      <pubDate>Sun, 12 Jul 2020 16:53:44 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/comunication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entertainment</title>
+      <link>https://freshersoft.com/categories/entertainment/</link>
+      <pubDate>Sun, 12 Jul 2020 16:53:44 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimedia</title>
+      <link>https://freshersoft.com/categories/multimedia/</link>
+      <pubDate>Sun, 12 Jul 2020 16:53:44 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/multimedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://freshersoft.com/categories/tools/</link>
+      <pubDate>Sun, 12 Jul 2020 16:53:44 -0700</pubDate>
+      
+      <guid>https://freshersoft.com/categories/tools/</guid>
       <description></description>
     </item>
     
@@ -120,38 +192,11 @@
     </item>
     
     <item>
-      <title>Multimedia</title>
-      <link>https://freshersoft.com/categories/multimedia/</link>
-      <pubDate>Mon, 06 Jul 2020 06:20:52 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/multimedia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CodeEditor</title>
       <link>https://freshersoft.com/categories/codeeditor/</link>
       <pubDate>Fri, 03 Jul 2020 04:25:38 +0500</pubDate>
       
       <guid>https://freshersoft.com/categories/codeeditor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>https://freshersoft.com/categories/tools/</link>
-      <pubDate>Fri, 03 Jul 2020 04:24:15 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comunication</title>
-      <link>https://freshersoft.com/categories/comunication/</link>
-      <pubDate>Fri, 03 Jul 2020 04:22:42 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/comunication/</guid>
       <description></description>
     </item>
     
@@ -165,56 +210,11 @@
     </item>
     
     <item>
-      <title>Graphics</title>
-      <link>https://freshersoft.com/categories/graphics/</link>
-      <pubDate>Fri, 03 Jul 2020 04:19:32 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/graphics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>https://freshersoft.com/categories/photography/</link>
-      <pubDate>Fri, 03 Jul 2020 04:19:32 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VideoPlayer&#34;</title>
-      <link>https://freshersoft.com/categories/videoplayer/</link>
-      <pubDate>Fri, 03 Jul 2020 04:19:32 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/videoplayer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VideoPlayers</title>
-      <link>https://freshersoft.com/categories/videoplayers/</link>
-      <pubDate>Fri, 03 Jul 2020 04:19:32 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/videoplayers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fancy</title>
       <link>https://freshersoft.com/categories/fancy/</link>
       <pubDate>Fri, 03 Jul 2020 04:19:06 +0500</pubDate>
       
       <guid>https://freshersoft.com/categories/fancy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Racing</title>
-      <link>https://freshersoft.com/categories/racing/</link>
-      <pubDate>Wed, 01 Jul 2020 17:43:14 +0500</pubDate>
-      
-      <guid>https://freshersoft.com/categories/racing/</guid>
       <description></description>
     </item>
     
