@@ -190,19 +190,6 @@
 <!-- /navigation -->
 
 
-<!-- preloader start -->
-
-<div class="preloader " style="background: transparent;" >
-  <div class="loader " >
-    <span class="dot"></span>
-    <div class="dots">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-  </div>
-</div>
-<!-- preloader end -->
 
 
 <section class="section section-search">
@@ -221,11 +208,12 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         <div id="search-results"></div>
-        
-        <script id="search-result-template" type="text/x-js-template">
+
+        <center id="search-ready"><h3 style="background-color:#0b8400;margin-top:35px;">Please Wait ...</h3></center>
+        <script id="search-result-template" type="text/x-js-template" onload="searchReady()" >
 
           
-          <ul class="search-result list-unstyled" id="summary-${key}">
+          <ul class="search-result list-unstyled" id="summary-${key}"style="background-color:#0b8400;">
             
             <li class="border-bottom mb-4 pb-3">
        
@@ -236,9 +224,10 @@
           </ul>
         </script>
         <script>
-            $('#search-result-template').on('load', function () {
-    $('.preloader').fadeOut(10);
-  });
+    let searchready = document.getElementById('search-ready');
+    function searchReady() {
+      searchready.style.display = none;
+    }
 </script>
       </div>
     </div>
