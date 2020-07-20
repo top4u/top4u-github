@@ -192,6 +192,7 @@
 
 
 
+
 <section class="section section-search">
   <div class="container" >
     <div class="row">
@@ -204,36 +205,42 @@
 
 
 
-  <div class="container">
+  <div class="container" onload="searchReady()">
     <div class="row">
       <div class="col-lg-10 mx-auto">
-        <div id="search-results"></div>
-
-        <center id="search-ready"><h3 style="background-color:#0b8400;margin-top:35px;">Please Wait ...</h3></center>
-        <script id="search-result-template" type="text/x-js-template" onload="searchReady()" >
+        <div id="search-results" ></div>
+          <center  ><h3 id="search-ready" class="background-green" style="margin-top:35px;width:187px;">Please Wait ...</h3></center>
+        
+        <script id="search-result-template" type="text/x-js-template"  >
 
           
-          <ul class="search-result list-unstyled" id="summary-${key}"style="background-color:#0b8400;">
+          <ul class="search-result list-unstyled" id="summary-${key}"style="background-color:#333;">
             
             <li class="border-bottom mb-4 pb-3">
        
 
-              <h4><a class="text-dark" href="${link}">${title}</a></h4>
+              <h4><a class="text-white background-green" href="${link}">${title}</a></h4>
               <p>${snippet}</p>
             </li>
           </ul>
-        </script>
-        <script>
-    let searchready = document.getElementById('search-ready');
-    function searchReady() {
-      searchready.style.display = none;
-    }
+        
+  
 </script>
       </div>
     </div>
   </div>
 </section>
 
+
+<script type="text/javascript">
+ let searchready = document.getElementById('search-ready');
+    function searchReady() {
+      
+      searchready.style.display = 'none';
+    }
+
+ </script>
+  
 
 
         
