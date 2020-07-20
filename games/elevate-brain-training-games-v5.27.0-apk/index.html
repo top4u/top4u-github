@@ -248,9 +248,10 @@ Elevate is a “cognitive pick out-me-up” with video video video games which m
 		border: 10px solid #00840a;
 		color: #fff;
 		background: transparent;
+		
 	}
 	.a:hover{
-
+	
 		width: 300px;
 		height: 52px;
 		border-radius: 29px 30px 29px 30px ;
@@ -263,8 +264,10 @@ Elevate is a “cognitive pick out-me-up” with video video video games which m
 		font-weight: bold;
 		font-variant-caps: titling-case;
 		background:#026b19;
+		
 
 	}
+	
 
 	#count{
 		font-family: sans-serif;
@@ -291,6 +294,11 @@ Elevate is a “cognitive pick out-me-up” with video video video games which m
 	   @media screen and (max-width:250px){.any{width:100%;}.a{width:100%;}  .any,.a:hover{ width: 100%;
 
 	   	} }
+
+	   
+	   		
+	   		
+	   
 </style>
 
 <h3>Elevate Brain Training Games V5.27</h3>
@@ -298,7 +306,7 @@ Elevate is a “cognitive pick out-me-up” with video video video games which m
 
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong>Download File &nbsp</strong><strong class="size"></strong></button></h1>
+	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong id="d-text">Download File &nbsp</strong><strong class="size"></strong></button></h1>
 	
 </div>
 <script id="button-download">
@@ -306,7 +314,8 @@ Elevate is a “cognitive pick out-me-up” with video video video games which m
 
 function onClick() {
 var counter = 11;
-
+let dtext = document.getElementById('d-text');
+dtext.innerHTML = "Downloading &nbsp";
  setInterval( function(){
 counter--;
 if (counter>=0){

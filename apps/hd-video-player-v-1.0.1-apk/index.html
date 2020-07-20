@@ -271,9 +271,10 @@ This excellent video player moreover enables saving your personal movies  movies
 		border: 10px solid #00840a;
 		color: #fff;
 		background: transparent;
+		
 	}
 	.a:hover{
-
+	
 		width: 300px;
 		height: 52px;
 		border-radius: 29px 30px 29px 30px ;
@@ -286,8 +287,10 @@ This excellent video player moreover enables saving your personal movies  movies
 		font-weight: bold;
 		font-variant-caps: titling-case;
 		background:#026b19;
+		
 
 	}
+	
 
 	#count{
 		font-family: sans-serif;
@@ -314,6 +317,11 @@ This excellent video player moreover enables saving your personal movies  movies
 	   @media screen and (max-width:250px){.any{width:100%;}.a{width:100%;}  .any,.a:hover{ width: 100%;
 
 	   	} }
+
+	   
+	   		
+	   		
+	   
 </style>
 
 <h3>Hd Video Player v 1.0</h3>
@@ -321,7 +329,7 @@ This excellent video player moreover enables saving your personal movies  movies
 
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong>Download File &nbsp</strong><strong class="size"></strong></button></h1>
+	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong id="d-text">Download File &nbsp</strong><strong class="size"></strong></button></h1>
 	
 </div>
 <script id="button-download">
@@ -329,7 +337,8 @@ This excellent video player moreover enables saving your personal movies  movies
 
 function onClick() {
 var counter = 11;
-
+let dtext = document.getElementById('d-text');
+dtext.innerHTML = "Downloading &nbsp";
  setInterval( function(){
 counter--;
 if (counter>=0){

@@ -302,9 +302,10 @@ Photo Editor</p>
 		border: 10px solid #00840a;
 		color: #fff;
 		background: transparent;
+		
 	}
 	.a:hover{
-
+	
 		width: 300px;
 		height: 52px;
 		border-radius: 29px 30px 29px 30px ;
@@ -317,8 +318,10 @@ Photo Editor</p>
 		font-weight: bold;
 		font-variant-caps: titling-case;
 		background:#026b19;
+		
 
 	}
+	
 
 	#count{
 		font-family: sans-serif;
@@ -345,6 +348,11 @@ Photo Editor</p>
 	   @media screen and (max-width:250px){.any{width:100%;}.a{width:100%;}  .any,.a:hover{ width: 100%;
 
 	   	} }
+
+	   
+	   		
+	   		
+	   
 </style>
 
 <h3>Gallery V3.46</h3>
@@ -352,7 +360,7 @@ Photo Editor</p>
 
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong>Download File &nbsp</strong><strong class="size"></strong></button></h1>
+	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong id="d-text">Download File &nbsp</strong><strong class="size"></strong></button></h1>
 	
 </div>
 <script id="button-download">
@@ -360,7 +368,8 @@ Photo Editor</p>
 
 function onClick() {
 var counter = 11;
-
+let dtext = document.getElementById('d-text');
+dtext.innerHTML = "Downloading &nbsp";
  setInterval( function(){
 counter--;
 if (counter>=0){

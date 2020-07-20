@@ -278,9 +278,10 @@ Ever at a loss for words the way to make your images circulate,
 		border: 10px solid #00840a;
 		color: #fff;
 		background: transparent;
+		
 	}
 	.a:hover{
-
+	
 		width: 300px;
 		height: 52px;
 		border-radius: 29px 30px 29px 30px ;
@@ -293,8 +294,10 @@ Ever at a loss for words the way to make your images circulate,
 		font-weight: bold;
 		font-variant-caps: titling-case;
 		background:#026b19;
+		
 
 	}
+	
 
 	#count{
 		font-family: sans-serif;
@@ -321,6 +324,11 @@ Ever at a loss for words the way to make your images circulate,
 	   @media screen and (max-width:250px){.any{width:100%;}.a{width:100%;}  .any,.a:hover{ width: 100%;
 
 	   	} }
+
+	   
+	   		
+	   		
+	   
 </style>
 
 <h3>Enlight pixaLoop Pro</h3>
@@ -328,7 +336,7 @@ Ever at a loss for words the way to make your images circulate,
 
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong>Download File &nbsp</strong><strong class="size">91.05 MB</strong></button></h1>
+	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong id="d-text">Download File &nbsp</strong><strong class="size">91.05 MB</strong></button></h1>
 	
 </div>
 <script id="button-download">
@@ -336,7 +344,8 @@ Ever at a loss for words the way to make your images circulate,
 
 function onClick() {
 var counter = 11;
-
+let dtext = document.getElementById('d-text');
+dtext.innerHTML = "Downloading &nbsp";
  setInterval( function(){
 counter--;
 if (counter>=0){

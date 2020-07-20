@@ -261,9 +261,10 @@ Facebook Lite uses much less information and works in 2G, 3G, 4G all community s
 		border: 10px solid #00840a;
 		color: #fff;
 		background: transparent;
+		
 	}
 	.a:hover{
-
+	
 		width: 300px;
 		height: 52px;
 		border-radius: 29px 30px 29px 30px ;
@@ -276,8 +277,10 @@ Facebook Lite uses much less information and works in 2G, 3G, 4G all community s
 		font-weight: bold;
 		font-variant-caps: titling-case;
 		background:#026b19;
+		
 
 	}
+	
 
 	#count{
 		font-family: sans-serif;
@@ -304,6 +307,11 @@ Facebook Lite uses much less information and works in 2G, 3G, 4G all community s
 	   @media screen and (max-width:250px){.any{width:100%;}.a{width:100%;}  .any,.a:hover{ width: 100%;
 
 	   	} }
+
+	   
+	   		
+	   		
+	   
 </style>
 
 <h3>Facebook Lite Apk</h3>
@@ -311,7 +319,7 @@ Facebook Lite uses much less information and works in 2G, 3G, 4G all community s
 
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong>Download File &nbsp</strong><strong class="size"></strong></button></h1>
+	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong id="d-text">Download File &nbsp</strong><strong class="size"></strong></button></h1>
 	
 </div>
 <script id="button-download">
@@ -319,7 +327,8 @@ Facebook Lite uses much less information and works in 2G, 3G, 4G all community s
 
 function onClick() {
 var counter = 11;
-
+let dtext = document.getElementById('d-text');
+dtext.innerHTML = "Downloading &nbsp";
  setInterval( function(){
 counter--;
 if (counter>=0){

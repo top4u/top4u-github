@@ -302,9 +302,10 @@ Use Canva as an invitation creator, poster author, brand maker, online invitatio
 		border: 10px solid #00840a;
 		color: #fff;
 		background: transparent;
+		
 	}
 	.a:hover{
-
+	
 		width: 300px;
 		height: 52px;
 		border-radius: 29px 30px 29px 30px ;
@@ -317,8 +318,10 @@ Use Canva as an invitation creator, poster author, brand maker, online invitatio
 		font-weight: bold;
 		font-variant-caps: titling-case;
 		background:#026b19;
+		
 
 	}
+	
 
 	#count{
 		font-family: sans-serif;
@@ -345,6 +348,11 @@ Use Canva as an invitation creator, poster author, brand maker, online invitatio
 	   @media screen and (max-width:250px){.any{width:100%;}.a{width:100%;}  .any,.a:hover{ width: 100%;
 
 	   	} }
+
+	   
+	   		
+	   		
+	   
 </style>
 
 <h3>Canva Graphic Design Video Invite &amp; Logo Maker Mod Apk 2.53</h3>
@@ -352,7 +360,7 @@ Use Canva as an invitation creator, poster author, brand maker, online invitatio
 
 	<div>
 		<h1 id="count" label="Download"></h1>
-	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong>Download File &nbsp</strong><strong class="size">22.18 MB</strong></button></h1>
+	<h1 class="any" label="Download"><button id="download-file" class="a" onclick="onClick()"><strong id="d-text">Download File &nbsp</strong><strong class="size">22.18 MB</strong></button></h1>
 	
 </div>
 <script id="button-download">
@@ -360,7 +368,8 @@ Use Canva as an invitation creator, poster author, brand maker, online invitatio
 
 function onClick() {
 var counter = 11;
-
+let dtext = document.getElementById('d-text');
+dtext.innerHTML = "Downloading &nbsp";
  setInterval( function(){
 counter--;
 if (counter>=0){
