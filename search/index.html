@@ -36,11 +36,8 @@
 
 <link rel="manifest" href="https://freshersoft.commanifest.json" />
 
-
 <meta name="theme-color" content="#141414" /> 
 <meta name="msapplication-TileColor" content="#141414" />
-
-<meta name="keywords" content="" />
 <meta name="imagemode" content="force" />
 <meta name="coverage" content="Worldwide" /> 
 <meta name="distribution" content="Global" />
@@ -92,11 +89,8 @@
 
 <link rel="manifest" href="https://freshersoft.commanifest.json" />
 
-
 <meta name="theme-color" content="#141414" /> 
 <meta name="msapplication-TileColor" content="#141414" />
-
-<meta name="keywords" content="" />
 <meta name="imagemode" content="force" />
 <meta name="coverage" content="Worldwide" /> 
 <meta name="distribution" content="Global" />
@@ -193,7 +187,7 @@
 
 
 
-<section class="section section-search">
+<section class="section section-search" >
   <div class="container" >
     <div class="row">
       <div class="col-lg-12">
@@ -205,16 +199,16 @@
 
 
 
-  <div class="container" onload="searchReady()">
-    <div class="row">
+  <div class="container">
+    <div class="row" >
       <div class="col-lg-10 mx-auto">
-        <div id="search-results" ></div>
-          <center  ><h3 id="search-ready" class="background-green" style="margin-top:35px;width:187px;">Please Wait ...</h3></center>
+        <div id="search-results"  ></div>
+          <center id="search-ready" ><h3  onclick ="searchReady()" class="background-green" style="margin-top:35px;width:187px;">Search ..</h3></center>
         
         <script id="search-result-template" type="text/x-js-template"  >
 
           
-          <ul class="search-result list-unstyled" id="summary-${key}"style="background-color:#333;">
+          <ul class="search-result list-unstyled" id="summary-${key}"style="background-color:#333;" >
             
             <li class="border-bottom mb-4 pb-3">
        
@@ -232,14 +226,7 @@
 </section>
 
 
-<script type="text/javascript">
- let searchready = document.getElementById('search-ready');
-    function searchReady() {
-      
-      searchready.style.display = 'none';
-    }
 
- </script>
   
 
 
@@ -325,22 +312,6 @@
   })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
   ga('create', 'UA-166855069-1', 'auto');
   ga('send', 'pageview');
-</script>
-
-   
-    
-
-
-   
-    
-   
-
-    
-
-
-   
-
-
-</div>
+</script></div>
 </body>
 </html>
