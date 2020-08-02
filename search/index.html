@@ -207,6 +207,20 @@ s.parentNode.insertBefore(ci_search, s);
 <!-- /navigation -->
 
 
+<!-- preloader start -->
+
+<div class="preloader " >
+  <div class="loader " >
+    <span class="dot"></span>
+    <div class="dots">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</div>
+<!-- preloader end -->
+
 
 
 <section class="section section-search" >
@@ -227,8 +241,8 @@ s.parentNode.insertBefore(ci_search, s);
         <div id="search-results"  ></div>
           <center id="search-ready" ><h3  onclick ="searchReady()" class="background-green" style="margin-top:35px;width:187px;">Please Wait ..</h3></center>
         
-        
-          <ci-search-results></ci-search-results>
+        <script id="search-result-template" type="text/x-js-template"  >
+
           
           <ul class="search-result list-unstyled" id="summary-${key}"style="background-color:#333;" >
             
